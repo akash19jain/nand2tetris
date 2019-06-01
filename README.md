@@ -3,7 +3,7 @@
 ## Implementation of a complete computer from Nand gates on up as described in the book, "The Elements of Computing Systems" by Nisan and Schocken.  
 
 ### PROJECT 01:  
-Building the Chipset That will be later used to construct the COmputer's Arithmetic Logic Unit and Memory System.  
+Building the Chipset That will be later used to construct the Computer's Arithmetic Logic Unit and Memory System.  
 The following Chipsets were built with NAND as the Primitive Gate.  
 1. And  
 2. Or  
@@ -20,4 +20,14 @@ The following Chipsets were built with NAND as the Primitive Gate.
 13. DMux4Way  
 14. DMux8Way  
 15. Not  
-The `.hdl` (Hardware Descriptor Language) file contains the code for the chipset and the `.out` file contains the output for the corresponding chipsets. 
+The `.hdl` (Hardware Descriptor Language) file contains the code for the chipset and the `.out` file contains the output for the corresponding chipsets.  
+
+### PROJECT 02:  
+Gradually Building a set of Chips, culminating in the construction of the the ALU Chip of the Hack Computer.  
+1. Half Adder  
+2. Full Adder  
+3. Add16  
+4. Inc16  
+5. ALU  
+The `.hdl` (Hardware Descriptor Language) file contains the code for the chipset and the `.out` file contains the output for the corresponding chipsets.  
+
