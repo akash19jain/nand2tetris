@@ -3,6 +3,7 @@
 // by Nisan and Schocken, MIT Press.
 // File name: projects/01/And.hdl
 
+
 /**
  * And gate: 
  * out = 1 if (a == 1 and b == 1)
