@@ -1,7 +1,6 @@
 # nand2tetris
 
-## Implementation of a complete computer from Nand gates on up as described in the book,
-## "The Elements of Computing Systems" by Nisan and Schocken.  
+## Implementation of a complete computer from Nand gates on up as described in the book, "The Elements of Computing Systems" by Nisan and Schocken.  
 
 ### PROJECT 01:  
 Building the Chipset That will be later used to construct the COmputer's Arithmetic Logic Unit and Memory System.  
