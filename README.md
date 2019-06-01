@@ -1,10 +1,10 @@
 # nand2tetris
-PROJECT CENTERED COURSE
 
-Implementation of a complete computer from Nand gates on up as described in the book,
-"The Elements of Computing Systems" by Nisan and Schocken.  
+## Implementation of a complete computer from Nand gates on up as described in the book,
+## "The Elements of Computing Systems" by Nisan and Schocken.  
 
-PROJECT 01: Building the Chipset That will be later used to construct the COmputer's Arithmetic Logic Unit and Memory System.  
+### PROJECT 01:  
+Building the Chipset That will be later used to construct the COmputer's Arithmetic Logic Unit and Memory System.  
 The following Chipsets were built with NAND as the Primitive Gate.  
 1. And  
 2. Or  
@@ -20,4 +20,5 @@ The following Chipsets were built with NAND as the Primitive Gate.
 12. Mux8Way16  
 13. DMux4Way  
 14. DMux8Way  
-The hdl (Hardware Descriptor Language) file contains the code for the chipset. 
+15. Not  
+The `.hdl` (Hardware Descriptor Language) file contains the code for the chipset and the `.out` file contains the output for the corresponding chipsets. 
