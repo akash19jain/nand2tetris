@@ -31,3 +31,15 @@ Gradually Building a set of Chips, culminating in the construction of the the AL
 5. ALU  
 The `.hdl` (Hardware Descriptor Language) file contains the code for the chipset and the `.out` file contains the output for the corresponding chipsets.  
 
+### PROJECT 3  
+Gradually building a RAM unit. The only building blocks that you use are primitive DFF gates.  
+1. 1 Bit Register  
+2. 16 Bit Register  
+3. RAM8  
+4. RAM64  
+5. RAM512  
+6. RAM4K  
+7. RAM16K
+8. PC  
+The `.hdl` (Hardware Descriptor Language) file contains the code for the chipset and the `.out` file contains the output for the corresponding chipsets.
+
