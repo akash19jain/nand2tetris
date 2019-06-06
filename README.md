@@ -41,5 +41,11 @@ Gradually building a RAM unit. The only building blocks that you use are primiti
 6. RAM4K  
 7. RAM16K
 8. PC  
-The `.hdl` (Hardware Descriptor Language) file contains the code for the chipset and the `.out` file contains the output for the corresponding chipsets.
+The `.hdl` (Hardware Descriptor Language) file contains the code for the chipset and the `.out` file contains the output for the corresponding chipsets.  
+
+### PROJECT 4  
+Writing a program in Assembly Language and having them translated into binary code by using an assembler. Two low-level programs were written:  
+1. Multiplication  
+2. Fill - illustrates low level handling of the screen and keyboard devices. If a key is pressed, the screen turns fully black else white.  
+The `.asm` file contains the code for the chipset in Assembly Language and the `.out` file contains the output for the corresponding chipsets, while the `.hack` file contains the `.asm` file converted into binary code.
 
