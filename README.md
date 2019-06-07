@@ -47,5 +47,14 @@ The `.hdl` (Hardware Descriptor Language) file contains the code for the chipset
 Writing a program in Assembly Language and having them translated into binary code by using an assembler. Two low-level programs were written:  
 1. Multiplication  
 2. Fill - illustrates low level handling of the screen and keyboard devices. If a key is pressed, the screen turns fully black else white.  
-The `.asm` file contains the code for the chipset in Assembly Language and the `.out` file contains the output for the corresponding chipsets, while the `.hack` file contains the `.asm` file converted into binary code.
+The `.asm` file contains the code for the chipset in Assembly Language and the `.out` file contains the output for the corresponding chipsets, while the `.hack` file contains the `.asm` file converted into binary code.  
+
+### PROJECT 5  
+Building the complete Hack Hardware Platform that can run programs written in the Hack Machine language.  
+1. Memory - The Entire RAM address Space  
+2. CPU - The Hack CPU  
+3. Computer - The Platform's Top most Chip.   
+The `.hdl` (Hardware Descriptor Language) file contains the code for the chipset and the `.out` file contains the output for the corresponding chipsets, , while the `.hack` file contains the binary code.  The `.tst` files are the test scripts that are used to perform a test (here we are performing 6 such tests to test the `Computer.hdl` chip.. The resulting outputs are stored in the `.out` file. I have used the Hardware Simulator to test chips written in HDL.
+
+
 
