@@ -54,7 +54,17 @@ Building the complete Hack Hardware Platform that can run programs written in th
 1. Memory - The Entire RAM address Space  
 2. CPU - The Hack CPU  
 3. Computer - The Platform's Top most Chip.   
-The `.hdl` (Hardware Descriptor Language) file contains the code for the chipset and the `.out` file contains the output for the corresponding chipsets, , while the `.hack` file contains the binary code.  The `.tst` files are the test scripts that are used to perform a test (here we are performing 6 such tests to test the `Computer.hdl` chip.. The resulting outputs are stored in the `.out` file. I have used the Hardware Simulator to test chips written in HDL.
+The `.hdl` (Hardware Descriptor Language) file contains the code for the chipset and the `.out` file contains the output for the corresponding chipsets, , while the `.hack` file contains the binary code.  The `.tst` files are the test scripts that are used to perform a test (here we are performing 6 such tests to test the `Computer.hdl` chip.. The resulting outputs are stored in the `.out` file. I have used the Hardware Simulator to test chips written in HDL.  
+
+### PROJECT 6  
+Writing an Assembler Program that translates programs written in the symbolic Hack assembly language into Binary Code that can execute on Hack Hardware platform built previously. 
+Test Programs:  
+1. Add.asm  
+2. Max.asm  
+3. Rect.asm  
+4. Pong.asm
+
+
 
 
 
